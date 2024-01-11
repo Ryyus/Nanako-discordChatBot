@@ -23,7 +23,7 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    if message.content.startswith('娜娜子'):
+    if message.content.startswith('娜娜子') or message.content.startswith('Nanako'):
         print(message.content)
         response = openai.chat.completions.create(
             model="gpt-3.5-turbo-1106",
