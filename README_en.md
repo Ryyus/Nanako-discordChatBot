@@ -3,11 +3,11 @@
 Nanako Chan is a Chinese/English discord chat bot written by python3, and shee needs discord bot token and openai token in order to do things
 
 ### example:
-Q: 娜娜子晚上好<br>
-A: 晚上好！有什么我可以帮助你的吗？
+Q: Nanako good evening<br>
+A: Good evening! How can I assist you today?
 
-Q: 娜娜子你能干嘛<br>
-A: 你好！作为一个虚拟助手，我可以帮助你回答问题、提供信息、进行翻译、订购商品或服务等。有什么我可以帮你的吗？
+Q: Nanako what can you do<br>
+A: Hello! I can help answer your questions, provide information, assist with scheduling and reminders, offer general assistance and more. Feel free to ask me anything!
 
 ### Quick start :
 1. Download nanakoBot.py to your folder/desktop.
