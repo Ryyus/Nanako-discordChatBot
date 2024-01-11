@@ -2,7 +2,7 @@
 *Read this in [English](README_en.md).*
 
 
-娜娜子是由python3编写的中文/英文discord聊天机器人，需要discord机器人令牌与openai令牌才能运作
+娜娜子是由python3编写的中英文discord聊天机器人，需要discord机器人令牌与openai令牌才能运作
 
 ### 例子:
 Q: 娜娜子晚上好<br>
